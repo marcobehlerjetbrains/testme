@@ -21,7 +21,9 @@
       </runner>
     </build-runners>
     <vcs-settings>
-      <vcs-entry-ref root-id="Testme_HttpsGithubComMarcobehlerjetbrainsTestmeGitRefsHeadsMain" />
+      <vcs-entry-ref root-id="Testme_HttpsGithubComMarcobehlerjetbrainsTestmeGitRefsHeadsMain">
+        <checkout-rule rule="-:teamcity" />
+      </vcs-entry-ref>
     </vcs-settings>
     <requirements />
     <build-triggers>
