@@ -14,7 +14,7 @@
       </runner>
       <runner id="RUNNER_11" name="" type="simpleRunner">
         <parameters>
-          <param name="script.content" value="echo 'huhu'" />
+          <param name="script.content" value="echo 'huh sddssdu'" />
           <param name="teamcity.step.mode" value="default" />
           <param name="use.custom.script" value="true" />
         </parameters>
